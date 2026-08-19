@@ -1,2 +1,2 @@
 # bank-customer-churn-analysis
-SQL and Power BI analysis of customer churn in a banking dataset.
+SQL analysis and Excel Dashboard of customer churn banking dataset.
